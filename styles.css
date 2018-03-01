@@ -1,0 +1,27 @@
+body {
+  background-image: url("camo.jpg");
+  background-size: cover;
+}
+
+.red-text {
+  color: red;
+}
+
+#playerOneId {
+  float: left;
+  margin-left: 300px;
+}
+
+#playerTwoId {
+  float: right;
+  margin-right: 300px;
+}
+
+.orange-text {
+  color: orange;
+}
+
+canvas {
+  border: solid 1px #000;
+  background-color: white;
+}
